@@ -38,7 +38,7 @@
     <Reference Include="UnityEngine.CoreModule" HintPath="$(RimWorldDir)\RimWorldWin64_Data\Managed\UnityEngine.CoreModule.dll" Private="false" />
     <Reference Include="UnityEngine.IMGUIModule" HintPath="$(RimWorldDir)\RimWorldWin64_Data\Managed\UnityEngine.IMGUIModule.dll" Private="false" />
     <Reference Include="UnityEngine.TextRenderingModule" HintPath="$(RimWorldDir)\RimWorldWin64_Data\Managed\UnityEngine.TextRenderingModule.dll" Private="false" />
-    <Reference Include="0Harmony" HintPath="$(RimWorldWorkshopDir)\2009463077\Current\Assemblies\0Harmony.dll" Private="false" />
+    <Reference Include="0Harmony" HintPath="$(RimWorldDir)\Mods\Harmony - Ustas\Current\Assemblies\0Harmony.dll" Private="false" />
     <Reference Include="Newtonsoft.Json" HintPath="$(ReconstructionReferenceDir)\Newtonsoft.Json.dll" Private="false" />
   </ItemGroup>
 </Project>
